@@ -1,7 +1,7 @@
 # 👾 NugentGL's Homelab Odyssey 🚀
 
 <p align="center">
-  <img src="./homelab2.png" alt="Sci-Fi Homelab Avatar" width="64" />
+  <img src="./homelab2.png" alt="Sci-Fi Homelab Avatar" width="400" />
 </p>
 <sup><em>Custom Homelab Avatar – stored in this repo!</em></sup>
 
