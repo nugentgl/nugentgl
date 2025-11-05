@@ -3,7 +3,7 @@
 <p align="center">
   <img src="./homelab2.png" alt="Sci-Fi Homelab Avatar" width="600" />
 </p>
-<sup><em>Custom Homelab Avatar – stored in this repo!</em></sup>
+
 
 ---
 
