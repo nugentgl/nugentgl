@@ -64,9 +64,9 @@ From code to scripts, configuration, and docs—you’ll find it all here.
 
 > Self-hosted lab science
 >
-> | Virtualization | Networking | Storage | AI | Automation | Media |
-> |:--------------:|:----------:|:-------:|:--:|:----------:|:-----:|
-> | Proxmox, LXC   | Samba      | ZFS     | 🤖 | n8n        | Jellyfin, Media Stack |
+> | Virtualization              | Storage                      | AI                                         | Automation | Media                 |
+> |:--------------------------:|:----------------------------:|:-------------------------------------------:|:----------:|:---------------------:|
+> | Proxmox, LXC, Docker       | ZFS, CEPHS, NFS              | Ollama, vLLM, LM Studio, Open WebUI         | n8n        | Jellyfin, Media Stack |
 
 <div align="center"><sub>“The only limit is the power bill.”</sub></div>
 
