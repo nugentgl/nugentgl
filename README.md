@@ -1,7 +1,7 @@
 # 👾 NugentGL's Homelab Odyssey 🚀
 
 <p align="center">
-  <img src="./homelab2.png" alt="Sci-Fi Homelab Avatar" width="600" />
+  <img src="./.assets/homelab2.png" alt="Sci-Fi Homelab Avatar" width="600" />
 </p>
 
 
