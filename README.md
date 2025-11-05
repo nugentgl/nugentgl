@@ -66,7 +66,7 @@ From code to scripts, configuration, and docs—you’ll find it all here.
 >
 > | Virtualization              | Storage                      | AI                                         | Automation | Media                 |
 > |:--------------------------:|:----------------------------:|:-------------------------------------------:|:----------:|:---------------------:|
-> | Proxmox, LXC, Docker       | ZFS, CEPHS, NFS              | Ollama, vLLM, LM Studio, Open WebUI         | n8n        | Jellyfin, Media Stack |
+> | Proxmox, Docker            | ZFS, CEPHS, NFS              | Ollama, vLLM, LM Studio, Open WebUI         | n8n        | Jellyfin, ServAAR     |
 
 <div align="center"><sub>“The only limit is the power bill.”</sub></div>
 
