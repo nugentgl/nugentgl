@@ -1,16 +1,79 @@
-## Hi there 👋
+# 👾 NugentGL's Homelab Odyssey 🚀
 
-<!--
-**nugentgl/nugentgl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Sci-Fi Avatar](https://api.dicebear.com/8.x/bottts/svg?seed=NugentGL)  
+<sup><em>AI-Generated Avatar – [Create your own or update the link!](https://www.dicebear.com/styles/bottts/)</em></sup>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 Welcome, Explorers!
+
+I'm **NugentGL**, a relentless homelab enthusiast charting new frontiers in the world of self-hosted solutions. My mission? To turn my humble collection of recycled tech into a living, breathing, automated digital universe. ✨
+
+### 🛠️ Mission Control: Current Focus Areas
+
+- **Server Virtualization:** *Proxmox* for orchestrating VMs and LXC containers
+- **File Sharing:** *ZFS datasets* paired with *Samba* for reliable file storage
+- **Workflow Automation:** No-code/low-code pipelines with *n8n*
+- **Containerization:** *Docker* and LXC for efficient, scalable app deployments
+- **Self-hosted AI:** Exploring and running AI models at home
+- **Home Automation:** The constant quest for a smarter home
+
+---
+
+### 👨‍💻 Main Project
+
+#### 🌌 Media_Stack
+
+> **A fully automated media request & delivery platform**
+>
+> Family members can request new media, the system will locate, fetch, and organize it, before seamlessly serving it via Jellyfin.
+
+**Everything is open-source:**  
+From code to scripts, configuration, and docs—you’ll find it all here.
+
+---
+
+### 🧰 My Lab Hardware
+
+> Reusing and recycling is in my DNA.
+>
+> Most experiments run on timeworn IT gear from the vault. If it hums, it gets a home.
+
+---
+
+### 📂 Repository Navigation
+
+- Projects are organized by name (e.g., `Media_Stack`)
+- Each repo may include:  
+  `code` | `docs` | `setup scripts` | `config samples` | `automation workflows`
+
+---
+
+### 👽 Contact & Comms
+
+> Have questions, ideas, or want to chat all things homelab?  
+> 🚀 Join me on **Discord:** `NugentGL`
+
+(*Note: Collaboration and PRs are not enabled, but always happy to connect!*)
+
+---
+
+### 🌠 Beyond the Console
+
+> Self-hosted lab science
+>
+> | Virtualization | Networking | Storage | AI | Automation | Media |
+> |:--------------:|:----------:|:-------:|:--:|:----------:|:-----:|
+> | Proxmox, LXC   | Samba      | ZFS     | 🤖 | n8n        | Jellyfin, Media Stack |
+
+<div align="center"><sub>“The only limit is the power bill.”</sub></div>
+
+---
+
+<!-- Badges for Extra Flair! -->
+<p align="center">
+  <img src="https://img.shields.io/badge/homelab-enthusiast-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/proxmox-virtualization-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/docker-containers-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-self--hosted-ff69b4?style=for-the-badge" />
+</p>
