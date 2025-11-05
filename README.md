@@ -1,7 +1,9 @@
 # 👾 NugentGL's Homelab Odyssey 🚀
 
-![Sci-Fi Avatar](https://api.dicebear.com/8.x/bottts/svg?seed=NugentGL)  
-<sup><em>AI-Generated Avatar – [Create your own or update the link!](https://www.dicebear.com/styles/bottts/)</em></sup>
+<p align="center">
+  <img src="https://api.dicebear.com/8.x/bottts/svg?seed=NugentGL" alt="Sci-Fi Avatar" width="64" />
+</p>
+<sup><em>AI-Generated Avatar – <a href="https://www.dicebear.com/styles/bottts/">Create your own or update the link!</a></em></sup>
 
 ---
 
